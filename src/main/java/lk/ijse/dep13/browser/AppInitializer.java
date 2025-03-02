@@ -16,7 +16,7 @@ public class AppInitializer extends Application {
     @Override
     public void start(Stage primaryStage) throws IOException {
         primaryStage.setScene(new Scene(FXMLLoader.load(getClass().getResource("/scene/MainScene.fxml"))));
-        primaryStage.setTitle("Web Browser");
+        primaryStage.setTitle("Web Surfer");
         primaryStage.centerOnScreen();
         primaryStage.show();
     }

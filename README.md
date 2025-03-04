@@ -117,7 +117,7 @@ The Web-Surfer App was developed basically with Java language.
 - Java
 - JavaFX (for UI & WebView)
 
-<span style="margin-right: 90px;">![java-url]</span> ![javafx][javafx-url]
+![java-url]  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![javafx][javafx-url]
 <br><br>
 
 
